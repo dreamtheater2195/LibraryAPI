@@ -1,0 +1,4 @@
+2017-12-02 10:04:24.8897||DEBUG|LibraryAPI.Program|Init main |url: |action: 
+2017-12-02 10:06:37.6330||INFO|LibraryAPI.Controllers.BooksController|Book 70a1f9b9-0a37-4c1a-99b1-c7709fc64167 for author 25320c5e-f58a-4b1f-b63a-8ee07a840bdf was deleted. |url: http://localhost/api/authors/25320c5e-f58a-4b1f-b63a-8ee07a840bdf/books/70a1f9b9-0a37-4c1a-99b1-c7709fc64167|action: DeleteBookForAuthor
+2017-12-02 10:11:05.7257||DEBUG|LibraryAPI.Program|Init main |url: |action: 
+2017-12-02 10:13:30.0976||INFO|LibraryAPI.Controllers.BooksController|Book 70a1f9b9-0a37-4c1a-99b1-c7709fc64167 for author 25320c5e-f58a-4b1f-b63a-8ee07a840bdf was deleted. |url: http://localhost/api/authors/25320c5e-f58a-4b1f-b63a-8ee07a840bdf/books/70a1f9b9-0a37-4c1a-99b1-c7709fc64167|action: DeleteBookForAuthor

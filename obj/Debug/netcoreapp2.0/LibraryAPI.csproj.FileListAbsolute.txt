@@ -1,0 +1,10 @@
+/Users/macintosh/Code/LibraryAPI/bin/Debug/netcoreapp2.0/LibraryAPI.deps.json
+/Users/macintosh/Code/LibraryAPI/bin/Debug/netcoreapp2.0/LibraryAPI.runtimeconfig.json
+/Users/macintosh/Code/LibraryAPI/bin/Debug/netcoreapp2.0/LibraryAPI.runtimeconfig.dev.json
+/Users/macintosh/Code/LibraryAPI/bin/Debug/netcoreapp2.0/LibraryAPI.dll
+/Users/macintosh/Code/LibraryAPI/bin/Debug/netcoreapp2.0/LibraryAPI.pdb
+/Users/macintosh/Code/LibraryAPI/obj/Debug/netcoreapp2.0/LibraryAPI.csproj.CoreCompileInputs.cache
+/Users/macintosh/Code/LibraryAPI/obj/Debug/netcoreapp2.0/LibraryAPI.AssemblyInfoInputs.cache
+/Users/macintosh/Code/LibraryAPI/obj/Debug/netcoreapp2.0/LibraryAPI.AssemblyInfo.cs
+/Users/macintosh/Code/LibraryAPI/obj/Debug/netcoreapp2.0/LibraryAPI.dll
+/Users/macintosh/Code/LibraryAPI/obj/Debug/netcoreapp2.0/LibraryAPI.pdb

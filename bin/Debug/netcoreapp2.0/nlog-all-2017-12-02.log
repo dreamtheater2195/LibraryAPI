@@ -1,0 +1,20 @@
+2017-12-02 10:21:04.1821||DEBUG|LibraryAPI.Program|Init main 
+2017-12-02 10:21:06.1491||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using '/Users/macintosh/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest. 
+2017-12-02 10:21:07.0380||INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'LibraryContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=Library  
+2017-12-02 10:21:07.1749||INFO|Microsoft.EntityFrameworkCore.Update|Saved 17 entities to in-memory store. 
+2017-12-02 10:21:08.1714||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/   
+2017-12-02 10:21:08.4284||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 257.603ms 404  
+2017-12-02 10:21:39.0125||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DELETE http://localhost:5000/api/authors/25320c5e-f58a-4b1f-b63a-8ee07a840bdf/books/70a1f9b9-0a37-4c1a-99b1-c7709fc64167  0 
+2017-12-02 10:21:39.1162||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method LibraryAPI.Controllers.BooksController.DeleteBookForAuthor (LibraryAPI) with arguments (25320c5e-f58a-4b1f-b63a-8ee07a840bdf, 70a1f9b9-0a37-4c1a-99b1-c7709fc64167) - ModelState is Valid 
+2017-12-02 10:21:39.1219||INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'LibraryContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=Library  
+2017-12-02 10:21:39.1994||INFO|Microsoft.EntityFrameworkCore.Update|Saved 1 entities to in-memory store. 
+2017-12-02 10:21:42.5955||INFO|LibraryAPI.Controllers.BooksController|Book 70a1f9b9-0a37-4c1a-99b1-c7709fc64167 for author 25320c5e-f58a-4b1f-b63a-8ee07a840bdf was deleted. 
+2017-12-02 10:21:44.7969||INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 204 
+2017-12-02 10:21:44.8028||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action LibraryAPI.Controllers.BooksController.DeleteBookForAuthor (LibraryAPI) in 5718.643ms 
+2017-12-02 10:21:44.8070||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 5794.562ms 204  
+2017-12-02 10:31:34.8050||DEBUG|LibraryAPI.Program|Init main 
+2017-12-02 10:31:36.6598||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using '/Users/macintosh/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest. 
+2017-12-02 10:31:37.5615||INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'LibraryContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=Library  
+2017-12-02 10:31:37.7188||INFO|Microsoft.EntityFrameworkCore.Update|Saved 17 entities to in-memory store. 
+2017-12-02 10:31:38.7833||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/   
+2017-12-02 10:31:39.0736||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 290.431ms 404  

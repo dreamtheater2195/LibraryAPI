@@ -1,0 +1,33 @@
+2017-12-02 10:04:24.8897||DEBUG|LibraryAPI.Program|Init main 
+2017-12-02 10:04:26.7393||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using '/Users/macintosh/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest. 
+2017-12-02 10:04:27.6192||INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'LibraryContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=Library  
+2017-12-02 10:04:27.7830||INFO|Microsoft.EntityFrameworkCore.Update|Saved 17 entities to in-memory store. 
+2017-12-02 10:04:29.3027||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/   
+2017-12-02 10:04:29.5543||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 252.38ms 404  
+2017-12-02 10:04:29.8024||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico   
+2017-12-02 10:04:29.8031||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 0.679ms 404  
+2017-12-02 10:06:37.3312||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DELETE http://localhost:5000/api/authors/25320c5e-f58a-4b1f-b63a-8ee07a840bdf/books/70a1f9b9-0a37-4c1a-99b1-c7709fc64167  0 
+2017-12-02 10:06:37.4920||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method LibraryAPI.Controllers.BooksController.DeleteBookForAuthor (LibraryAPI) with arguments (25320c5e-f58a-4b1f-b63a-8ee07a840bdf, 70a1f9b9-0a37-4c1a-99b1-c7709fc64167) - ModelState is Valid 
+2017-12-02 10:06:37.5294||INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'LibraryContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=Library  
+2017-12-02 10:06:37.6310||INFO|Microsoft.EntityFrameworkCore.Update|Saved 1 entities to in-memory store. 
+2017-12-02 10:06:37.6330||INFO|LibraryAPI.Controllers.BooksController|Book 70a1f9b9-0a37-4c1a-99b1-c7709fc64167 for author 25320c5e-f58a-4b1f-b63a-8ee07a840bdf was deleted. 
+2017-12-02 10:06:37.6397||INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 204 
+2017-12-02 10:06:37.6446||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action LibraryAPI.Controllers.BooksController.DeleteBookForAuthor (LibraryAPI) in 199.696ms 
+2017-12-02 10:06:37.6491||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 318.735ms 204  
+2017-12-02 10:07:27.0008||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DELETE http://localhost:5000/api/authors/25320c5e-f58a-4b1f-b63a-8ee07a840bdf/books/70a1f9b9-0a37-4c1a-99b1-c7709fc64167  0 
+2017-12-02 10:07:27.0114||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method LibraryAPI.Controllers.BooksController.DeleteBookForAuthor (LibraryAPI) with arguments (25320c5e-f58a-4b1f-b63a-8ee07a840bdf, 70a1f9b9-0a37-4c1a-99b1-c7709fc64167) - ModelState is Valid 
+2017-12-02 10:07:27.0137||INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'LibraryContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=Library  
+2017-12-02 10:07:27.0272||INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 404 
+2017-12-02 10:07:27.0277||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action LibraryAPI.Controllers.BooksController.DeleteBookForAuthor (LibraryAPI) in 19.684ms 
+2017-12-02 10:07:27.0277||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 36.293ms 404  
+2017-12-02 10:11:05.7257||DEBUG|LibraryAPI.Program|Init main 
+2017-12-02 10:11:07.6409||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using '/Users/macintosh/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest. 
+2017-12-02 10:11:08.5370||INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'LibraryContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=Library  
+2017-12-02 10:11:08.6994||INFO|Microsoft.EntityFrameworkCore.Update|Saved 17 entities to in-memory store. 
+2017-12-02 10:11:09.7695||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/   
+2017-12-02 10:11:10.0172||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 247.558ms 404  
+2017-12-02 10:13:20.7332||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DELETE http://localhost:5000/api/authors/25320c5e-f58a-4b1f-b63a-8ee07a840bdf/books/70a1f9b9-0a37-4c1a-99b1-c7709fc64167  0 
+2017-12-02 10:13:20.8415||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method LibraryAPI.Controllers.BooksController.DeleteBookForAuthor (LibraryAPI) with arguments (25320c5e-f58a-4b1f-b63a-8ee07a840bdf, 70a1f9b9-0a37-4c1a-99b1-c7709fc64167) - ModelState is Valid 
+2017-12-02 10:13:20.8483||INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'LibraryContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=Library  
+2017-12-02 10:13:20.9931||INFO|Microsoft.EntityFrameworkCore.Update|Saved 1 entities to in-memory store. 
+2017-12-02 10:13:30.0976||INFO|LibraryAPI.Controllers.BooksController|Book 70a1f9b9-0a37-4c1a-99b1-c7709fc64167 for author 25320c5e-f58a-4b1f-b63a-8ee07a840bdf was deleted. 
